@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrwebbeast" alt="mrwebbeast" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mrwebbeast" target="blank"><img src="https://img.shields.io/twitter/follow/mrwebbeast?logo=twitter&style=for-the-badge" alt="mrwebbeast" /></a> </p>
-
 - 🔭 I’m currently working on [Learn Android Studio](https://play.google.com/store/apps/details?id=com.androidappdevelopment.learnandroidstudio)
 
 - 🌱 I’m currently learning **Java,DSA**
@@ -38,6 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrwebbeast&show_icons=true&locale=en" alt="mrwebbeast" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrwebbeast&" alt="mrwebbeast" /></p>
-<p><a href="https://www.buymeacoffee.com/mrwebbeast"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrwebbeast" /></a></p><br><br>
-
-
