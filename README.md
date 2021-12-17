@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Ranout</h1>
 <h3 align="center">A Flutter Developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrwebbeast" alt="mrwebbeast" /></a> </p>
+<p align="left"> <a href="https://github.com/mrwebbeast"><img src="https://github-profile-trophy.vercel.app/?username=mrwebbeast" alt="mrwebbeast" /></a> </p>
 
 - 🔭 I’m currently working on [Learn Android Studio](https://play.google.com/store/apps/details?id=com.androidappdevelopment.learnandroidstudio)
 
