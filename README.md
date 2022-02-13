@@ -2,15 +2,15 @@
 <h3 align="center">A Flutter Developer from India</h3>
 <p align="left"> <a href="https://github.com/mrwebbeast"><img src="https://github-profile-trophy.vercel.app/?username=mrwebbeast" alt="mrwebbeast" /></a> </p>
 
-- 🔭 I’m currently working on [Learn Android Studio](https://play.google.com/store/apps/details?id=com.androidappdevelopment.learnandroidstudio)
+- 🔭 I’m currently working as Flutter Developer | Freelancer
 
-- 🌱 I’m currently learning **Java,DSA**
+- 🌱 I’m currently learning **Dapps Development**
 
-- 👀 I’m interested in **Mobile Application Development**
+- 👀 I’m interested in **Blockchain Development**
 
 - 💬 Ask me about **Flutter, Dart ,Firebase**
 
-- 📫 How to reach me **mrwebbeast.help@gmail.com**
+- 📫 How to reach me **mrwebbeast@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
