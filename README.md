@@ -2,11 +2,11 @@
 <h3 align="center">A Flutter Developer from India</h3>
 <p align="left"> <a href="https://github.com/mrwebbeast"><img src="https://github-profile-trophy.vercel.app/?username=mrwebbeast" alt="mrwebbeast" /></a> </p>
 
-- 🔭 I’m currently working as Flutter Developer | Freelancer
+- 🔭 I’m currently working as Flutter Developer | Android | Java
 
-- 🌱 I’m currently learning **Dapps Development**
+- 🌱 I’m currently Improving ** Data structure and Algorithm **
 
-- 👀 I’m interested in **Blockchain Development**
+- 👀 I’m interested in **Machine Learning**
 
 - 💬 Ask me about **Flutter, Dart ,Firebase**
 
