@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sahil Ranout Software Developer.</h1>
-<h3 align="center">A Flutter Developer from India.</h3>
+<h3 align="center">A Software Developer from India.</h3>
 <p align="left"> <a href="https://github.com/mrwebbeast"><img src="https://github-profile-trophy.vercel.app/?username=mrwebbeast" alt="mrwebbeast" /></a> </p>
 
 - 🔭 I’m currently working as Mobile Application Developer | Flutter| Android | Java | Dart
 
 - 🌱 I’m currently Improving ** Data structure and Algorithm **
 
-- 👀 I’m interested in **Machine Learning**
+- 👀 I’m interested in **GSoc 2023**
 
 - 💬 Ask me about **Flutter, Dart ,Firebase**
 
@@ -21,8 +21,6 @@
 <a href="https://www.youtube.com/channel/UCwzWhH2ySHEI2lmadu4BQGA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCwzWhH2ySHEI2lmadu4BQGA" height="30" width="40" /></a>
 <a href="https://play.google.com/store/apps/developer?id=MrWebBeast" target="blank"><img align="center" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="https://play.google.com/store/apps/developer?id=MrWebBeast" height="30" width="80" /></a>
 <a href="https://www.hackerrank.com/mrwebbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mrwebbeast" height="30" width="40" /></a>
-<a href="https://medium.com/@mrwebbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mrwebbeast" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
