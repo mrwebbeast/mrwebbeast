@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently Improving ** Data structure and Algorithm **
 
-- 👀 I’m interested in **GSoc 2023**
+- 👀 I’m interested in **GSoc 2023,AI/ML**
 
 - 💬 Ask me about **Flutter, Dart ,Firebase**
 
